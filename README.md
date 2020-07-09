@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Basil, a computer science degree holder currently learning and exploring the endless possibilities of JavaScript. Eventually I'll delve into Automation, AI and machine learning. 
 
 <!--
 **general260/general260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
