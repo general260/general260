@@ -1,5 +1,2 @@
-- 🌱 I’m currently learning and exploring the endless possibilities of Product Management
-- 👯 I’m looking to collaborate on interest projects, regardless of stack, bring it on!
-- 🤔 I’m looking for help with nothing in particular
-- 💬 Ask me about startups, web development and product strategies
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently exploring the endless possibilities of Product Management
+- 💬 Ask me about startups, scrum, web development and product management
