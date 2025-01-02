@@ -1,2 +1,1 @@
-- 🌱 I’m currently exploring the endless possibilities of Product Management
-- 💬 Ask me about startups, scrum, web development and product management
+- 🌱 I’m currently exploring the endless possibilities of operations management
